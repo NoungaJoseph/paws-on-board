@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "name": "Hard-bottom back-seat extender",
+    "price": 149,
+    "category": "Car travel",
+    "phase": "Test first",
+    "slug": "hard-bottom-back-seat-extender",
+    "image": "/images/product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Waterproof boot liner with bumper flap",
+    "price": 119,
+    "category": "Car travel",
+    "phase": "Test first",
+    "slug": "waterproof-boot-liner-with-bumper-flap",
+    "image": "/images/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Foldable dog car ramp",
+    "price": 159,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "foldable-dog-car-ramp",
+    "image": "/images/product-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "XL hard-bottom seat extender",
+    "price": 179,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "xl-hard-bottom-seat-extender",
+    "image": "/images/product-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Foldable elevated dog camping cot",
+    "price": 129,
+    "category": "Camping",
+    "phase": "Later",
+    "slug": "foldable-elevated-dog-camping-cot",
+    "image": "/images/product-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Washable non-slip extender mat",
+    "price": 39,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "washable-non-slip-extender-mat",
+    "image": "/images/product-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spare extender strap set",
+    "price": 15,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "spare-extender-strap-set",
+    "image": "/images/product-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Front passenger seat protector",
+    "price": 49,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "front-passenger-seat-protector",
+    "image": "/images/product-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rear door protector pair",
+    "price": 39,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "rear-door-protector-pair",
+    "image": "/images/product-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cargo sidewall protector pair",
+    "price": 49,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "cargo-sidewall-protector-pair",
+    "image": "/images/product-10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Padded back-seat protector without rigid base",
+    "price": 79,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "padded-back-seat-protector-without-rigid-base",
+    "image": "/images/product-11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Headrest storage organiser",
+    "price": 29,
+    "category": "Car travel",
+    "phase": "Later",
+    "slug": "headrest-storage-organiser",
+    "image": "/images/product-12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Collapsible water bowl",
+    "price": 15,
+    "category": "Food & water",
+    "phase": "Test first",
+    "slug": "collapsible-water-bowl",
+    "image": "/images/product-13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Quick-dry dog towel",
+    "price": 25,
+    "category": "Clean-up",
+    "phase": "Test first",
+    "slug": "quick-dry-dog-towel",
+    "image": "/images/product-14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Reusable pet hair remover",
+    "price": 19,
+    "category": "Clean-up",
+    "phase": "Test first",
+    "slug": "reusable-pet-hair-remover",
+    "image": "/images/product-15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Travel pouch",
+    "price": 12,
+    "category": "Camping",
+    "phase": "Test first",
+    "slug": "travel-pouch",
+    "image": "/images/product-16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Portable paw cleaner",
+    "price": 25,
+    "category": "Clean-up",
+    "phase": "Test first",
+    "slug": "portable-paw-cleaner",
+    "image": "/images/product-17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Microfibre drying mitt pair",
+    "price": 19,
+    "category": "Clean-up",
+    "phase": "Later",
+    "slug": "microfibre-drying-mitt-pair",
+    "image": "/images/product-18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Dog drying robe",
+    "price": 49,
+    "category": "Clean-up",
+    "phase": "Later",
+    "slug": "dog-drying-robe",
+    "image": "/images/product-19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Washable car detailing cloth set",
+    "price": 15,
+    "category": "Clean-up",
+    "phase": "Later",
+    "slug": "washable-car-detailing-cloth-set",
+    "image": "/images/product-20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Portable dog water bottle",
+    "price": 29,
+    "category": "Food & water",
+    "phase": "Later",
+    "slug": "portable-dog-water-bottle",
+    "image": "/images/product-21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Collapsible food bowl",
+    "price": 15,
+    "category": "Food & water",
+    "phase": "Later",
+    "slug": "collapsible-food-bowl",
+    "image": "/images/product-22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Roll-top kibble bag",
+    "price": 35,
+    "category": "Food & water",
+    "phase": "Later",
+    "slug": "roll-top-kibble-bag",
+    "image": "/images/product-23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Silicone feeding mat",
+    "price": 22,
+    "category": "Food & water",
+    "phase": "Later",
+    "slug": "silicone-feeding-mat",
+    "image": "/images/product-24.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Insulated dog travel tote",
+    "price": 59,
+    "category": "Food & water",
+    "phase": "Later",
+    "slug": "insulated-dog-travel-tote",
+    "image": "/images/product-25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Roll-up padded travel bed",
+    "price": 79,
+    "category": "Camping",
+    "phase": "Later",
+    "slug": "roll-up-padded-travel-bed",
+    "image": "/images/product-26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Water-resistant picnic blanket",
+    "price": 59,
+    "category": "Camping",
+    "phase": "Later",
+    "slug": "water-resistant-picnic-blanket",
+    "image": "/images/product-27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Reflective walking lead",
+    "price": 29,
+    "category": "Walks",
+    "phase": "Later",
+    "slug": "reflective-walking-lead",
+    "image": "/images/product-28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Long training lead",
+    "price": 35,
+    "category": "Walks",
+    "phase": "Later",
+    "slug": "long-training-lead",
+    "image": "/images/product-29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Treat pouch with belt clip",
+    "price": 25,
+    "category": "Walks",
+    "phase": "Later",
+    "slug": "treat-pouch-with-belt-clip",
+    "image": "/images/product-30.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Waste bag dispenser with starter roll",
+    "price": 12,
+    "category": "Walks",
+    "phase": "Later",
+    "slug": "waste-bag-dispenser-with-starter-roll",
+    "image": "/images/product-31.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Waste bag refill multipack",
+    "price": 15,
+    "category": "Walks",
+    "phase": "Later",
+    "slug": "waste-bag-refill-multipack",
+    "image": "/images/product-32.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Dog Travel Bundle",
+    "price": 179,
+    "category": "Bundles",
+    "items": [
+      1,
+      13,
+      14
+    ],
+    "separate": 189,
+    "saving": 10,
+    "slug": "dog-travel-bundle",
+    "image": "/images/product-1.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Dog Travel and Clean-Up Bundle",
+    "price": 199,
+    "category": "Bundles",
+    "items": [
+      1,
+      13,
+      14,
+      15,
+      16
+    ],
+    "separate": 220,
+    "saving": 21,
+    "slug": "dog-travel-and-clean-up-bundle",
+    "image": "/images/product-1.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Full Car Protection Bundle",
+    "price": 249,
+    "category": "Bundles",
+    "items": [
+      1,
+      2
+    ],
+    "separate": 268,
+    "saving": 19,
+    "slug": "full-car-protection-bundle",
+    "image": "/images/product-1.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Boot and Bumper Bundle",
+    "price": 149,
+    "category": "Bundles",
+    "items": [
+      2,
+      10
+    ],
+    "separate": 168,
+    "saving": 19,
+    "slug": "boot-and-bumper-bundle",
+    "image": "/images/product-2.jpg"
+  },
+  {
+    "id": 105,
+    "name": "SUV Loading Bundle",
+    "price": 249,
+    "category": "Bundles",
+    "items": [
+      3,
+      2
+    ],
+    "separate": 278,
+    "saving": 29,
+    "slug": "suv-loading-bundle",
+    "image": "/images/product-3.jpg"
+  },
+  {
+    "id": 106,
+    "name": "XL Road Trip Bundle",
+    "price": 219,
+    "category": "Bundles",
+    "items": [
+      4,
+      21,
+      14,
+      16
+    ],
+    "separate": 245,
+    "saving": 26,
+    "slug": "xl-road-trip-bundle",
+    "image": "/images/product-4.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Weekend Camping Bundle",
+    "price": 199,
+    "category": "Bundles",
+    "items": [
+      5,
+      27,
+      13,
+      22
+    ],
+    "separate": 218,
+    "saving": 19,
+    "slug": "weekend-camping-bundle",
+    "image": "/images/product-5.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Travel Feeding Pack",
+    "price": 89,
+    "category": "Bundles",
+    "items": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "separate": 101,
+    "saving": 12,
+    "slug": "travel-feeding-pack",
+    "image": "/images/product-21.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Muddy Paws Clean-Up Pack",
+    "price": 69,
+    "category": "Bundles",
+    "items": [
+      17,
+      14,
+      18,
+      20
+    ],
+    "separate": 84,
+    "saving": 15,
+    "slug": "muddy-paws-clean-up-pack",
+    "image": "/images/product-17.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Walk and Train Pack",
+    "price": 99,
+    "category": "Bundles",
+    "items": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "separate": 116,
+    "saving": 17,
+    "slug": "walk-and-train-pack",
+    "image": "/images/product-28.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Holiday Road Trip Bundle",
+    "price": 199,
+    "category": "Bundles",
+    "items": [
+      1,
+      13,
+      14,
+      15,
+      17
+    ],
+    "separate": 233,
+    "saving": 34,
+    "slug": "holiday-road-trip-bundle",
+    "image": "/images/product-1.jpg",
+    "phase": "Proposed holiday offer"
+  },
+  {
+    "id": 112,
+    "name": "Christmas Adventure Bundle",
+    "price": 279,
+    "category": "Bundles",
+    "items": [
+      5,
+      21,
+      23,
+      26,
+      27
+    ],
+    "separate": 331,
+    "saving": 52,
+    "slug": "christmas-adventure-bundle",
+    "image": "/images/product-5.jpg",
+    "phase": "Proposed holiday offer"
+  },
+  {
+    "id": 113,
+    "name": "Coastal Clean-Up Bundle",
+    "price": 159,
+    "category": "Bundles",
+    "items": [
+      2,
+      14,
+      17,
+      18
+    ],
+    "separate": 188,
+    "saving": 29,
+    "slug": "coastal-clean-up-bundle",
+    "image": "/images/product-2.jpg",
+    "phase": "Proposed holiday offer"
+  }
+]
